@@ -13,25 +13,6 @@ A live crypto/gold technical analysis panel that runs entirely in the browser, u
 - A scrolling ticker tape of major coins in your selected quote currency, refreshed every 30 seconds.
 - Auto-refresh every 20 seconds (can be toggled off).
 
-## Step-by-step: publish this on GitHub Pages
-
-1. **Create a GitHub account** if you don't already have one (github.com — free).
-2. **Create a new repository:**
-   - Click the "+" in the top-right corner → "New repository".
-   - Give it a name (e.g. `crypto-terminal`).
-   - Set visibility to **Public**.
-   - Click "Create repository".
-3. **Upload the files:**
-   - On the repo page, click "Add file" → "Upload files".
-   - Drag and drop `index.html`, `README.md`, `LICENSE`, and the entire `fonts/` folder from this project.
-   - Commit the changes.
-4. **Turn on GitHub Pages:**
-   - Go to **Settings** (top menu of the repo) → **Pages** (left sidebar).
-   - Under "Branch", select `main` (or `master`), keep the folder as `/ (root)`, and click **Save**.
-   - Wait 1–2 minutes — GitHub will give you a live link like:
-     `https://YOUR-USERNAME.github.io/crypto-terminal/`
-5. **Share the link.** Anyone can open it in their own browser — your computer doesn't need to stay on, and no one needs an account.
-
 You can also just double-click `index.html` to open it locally in any modern browser to test it before publishing — it only needs an internet connection.
 
 ## Important notes
