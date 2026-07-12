@@ -58,3 +58,5 @@ Pull requests are welcome — additional indicators (MACD, Bollinger Bands), mor
 ## License
 
 This project is licensed under the MIT License — see the `LICENSE` file for details. Feel free to use, modify, and redistribute it under those terms.
+
+⚠️Warning: All my work is **experimental**! I can carefully examine the complaints and comments you may receive and put them into practice.⚠️
